@@ -1,0 +1,18 @@
+body {
+    background-color: #e0e0e0;
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+p {
+    color: darkred;
+    font-size: 18px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: 20px auto;
+}
